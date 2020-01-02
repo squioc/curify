@@ -10,7 +10,7 @@ Curify extract the main readable content from HTML pages
 
 ### Installation
 
-    $ go get github.com/squioc/cmd/curify/
+    $ go get github.com/squioc/curify/cmd/curify/
 
 ### Usage
 
@@ -25,7 +25,7 @@ or
 
 ### Installation
 
-    $ go get github.com/squioc/cmd/tomd/
+    $ go get github.com/squioc/curify/cmd/tomd/
 
 ### Usage
 
